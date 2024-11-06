@@ -1,9 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/LayOuts/">
-    <file alias="Main.qml">C:/Users/javie/Desktop/clase/DAM/INTERFACES/QT/LayOuts/Main.qml</file>
-    <file alias="ColumnaIzq.qml">C:/Users/javie/Desktop/clase/DAM/INTERFACES/QT/LayOuts/ColumnaIzq.qml</file>
-    <file alias="Rectangulo.qml">C:/Users/javie/Desktop/clase/DAM/INTERFACES/QT/LayOuts/Rectangulo.qml</file>
-    <file alias="Tarjetas.qml">C:/Users/javie/Desktop/clase/DAM/INTERFACES/QT/LayOuts/Tarjetas.qml</file>
-  </qresource>
-</RCC>
-
